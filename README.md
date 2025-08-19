@@ -23,6 +23,8 @@ Power BI – Data modeling, visualization, and report building.
 
 Data Sources – (Specify: e.g., CSV, Excel, SQL Database).
 
+<img width="1888" height="868" alt="Screenshot 2025-08-19 204122" src="https://github.com/user-attachments/assets/06d08a19-1360-4f6e-b18f-6a19bcb7999f" />
+
 DAX (Data Analysis Expressions) – For calculated measures and KPIs.
 
 **📂 Project Structure**
